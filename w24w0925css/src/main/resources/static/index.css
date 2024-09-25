@@ -1,0 +1,13 @@
+li > div, h1 {
+    background-color: #A8D1D1;
+}
+
+div {
+    background-color: #FD8A8A;
+    margin: 16px;
+    padding: 8px;
+}
+
+li {
+    list-style-type: none;
+}
